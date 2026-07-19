@@ -17,7 +17,7 @@
 ### 🧠 Currently Focusing
 
 - Advanced System Design, Distributed Systems, and High-Level Design.
-- 🌠 Contributing to open source.
+- Contributing to open source.
 
 ---
 
