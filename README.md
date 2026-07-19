@@ -64,6 +64,10 @@
 ---
 
 <h3 align="center">✍️ Random Dev Quote ✍️</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="100%" />
+    </td>
+  </tr>
+</table>
