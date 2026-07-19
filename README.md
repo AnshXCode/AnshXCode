@@ -61,9 +61,9 @@
 <p align="center">
   <a href="https://github.com/AnshXCode">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&row=1&column=5&title=-Followers&title=-Stars&title=-Joined&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&row=1&column=5&title=-Followers,-Stars,-Joined&theme=monokai">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&row=1&column=5&title=-Followers,-Stars,-Joined&theme=monokai">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&row=1&column=5&title=-Followers&title=-Stars&title=-Joined2020&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&row=1&column=5&title=-Followers,-Stars,-Joined2020&theme=monokai">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&row=1&column=5&title=-Followers,-Stars,-Joined2020&theme=monokai">
     </picture>
   </a>
 </p>
