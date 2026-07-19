@@ -42,6 +42,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
 ### 🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆
 <p align="center">
   <a href="https://github.com/Kiran1689">
