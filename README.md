@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Anshuman Goyal</h1>
+<h3 align="center">Sr. Software Engineer</h3>
 💻 I'm currently working on Scalable full-stack applications using React, TypeScript, Node.js, PostgreSQL, Redis, Docker & BullMQ. I graduated from IIT Kanpur and secured AIR 249 in JEE Advanced. I love turning complex engineering problems into simple, scalable solutions.<br><br>🌱 I'm currently learning Advanced System Design, Kafka, Distributed Systems, and High-Level Design.<br><br>💬 Ask me about React, TypeScript, Node.js, JavaScript, Performance Optimization, Redis, PostgreSQL, Docker, and System Design.
 
 
