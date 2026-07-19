@@ -33,24 +33,37 @@
 
 ---
 
-### 📊 GitHub Stats
-![](https://streak-stats.demolab.com/?user=AnshXCode&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnshXCode&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">📊 GitHub Stats</h3>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=AnshXCode&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://media1.tenor.com/m/jeF3QATIpZYAAAAC/iron.gif" alt="Iron Man" width="120" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AnshXCode&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆
+<h3 align="center">✍️ Random Dev Quote ✍️</h3>
 <p align="center">
-  <a href="https://github.com/Kiran1689">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+<h3 align="center">🏆 GitHub Trophies 🏆</h3>
+<p align="center">
+  <a href="https://github.com/AnshXCode">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=ryo-ma&row=1&column=5&title=-Followers&title=-Stars&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=ryo-ma&row=1&column=5&title=-Followers&title=-Stars&theme=monokai">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=ryo-ma&row=1&column=5&title=-Followers&title=-Stars&theme=monokai">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=AnshXCode&row=1&column=5&title=-Followers,-Stars&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=AnshXCode&row=1&column=5&title=-Followers,-Stars&theme=monokai">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=AnshXCode&row=1&column=5&title=-Followers,-Stars&theme=monokai">
     </picture>
   </a>
 </p>
