@@ -9,8 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-- Currently working on Scalable full-stack applications using React, TypeScript, Node.js, PostgreSQL, Redis, Docker & BullMQ.
 - Graduated from IIT Kanpur and secured AIR 249 in JEE Advanced. Love turning complex engineering problems into simple, scalable solutions.
+- Currently working on Scalable full-stack applications using React, TypeScript, Node.js, PostgreSQL, Redis, Docker & BullMQ.
 
 ---
 
@@ -41,4 +41,15 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆
+<p align="center">
+  <a href="https://github.com/Kiran1689">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
 
