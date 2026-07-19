@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- I'm currently working on Scalable full-stack applications using React, TypeScript, Node.js, PostgreSQL, Redis, Docker & BullMQ. I graduated from IIT Kanpur and secured AIR 249 in JEE Advanced. I love turning complex engineering problems into simple, scalable solutions.
+- Currently working on Scalable full-stack applications using React, TypeScript, Node.js, PostgreSQL, Redis, Docker & BullMQ. Graduated from IIT Kanpur and secured AIR 249 in JEE Advanced. Love turning complex engineering problems into simple, scalable solutions.
 
 ---
 
