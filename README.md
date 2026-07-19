@@ -50,13 +50,6 @@
 
 ---
 
-<h3 align="center">✍️ Random Dev Quote ✍️</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
 <h3 align="center">🏆 GitHub Trophies 🏆</h3>
 <p align="center">
   <a href="https://github.com/AnshXCode">
@@ -68,3 +61,9 @@
   </a>
 </p>
 
+---
+
+<h3 align="center">✍️ Random Dev Quote ✍️</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
