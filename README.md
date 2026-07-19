@@ -23,7 +23,7 @@
 
 ### 📝 Blogs & Articles
 
-- [The React Bug That Crashed Our Production App in 2 Sec](https://medium.com/@CodersWorld99/the-react-bug-that-crashed-our-production-app-in-2-sec-ed20a0be0a8f)
+- [The React Bug That Crashed Our Production App in 2 Sec](https://medium.com/@goyalanshuman4/the-react-bug-that-crashed-our-production-app-in-2-seconds-cbc5ebffbe20)
 - [React Event Handling Explained: Forms, Event Object & User Input.](https://medium.com/@theDevBluePrint/part-7b-section-2-react-event-handling-explained-forms-event-object-user-input-d2d62e190400)
 
 ---
