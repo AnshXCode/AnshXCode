@@ -46,9 +46,9 @@
 <p align="center">
   <a href="https://github.com/Kiran1689">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=ryo-ma&rank=S,AAA">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=ryo-ma&rank=S,AAA">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=ryo-ma&rank=S,AAA">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=ryo-ma&rank=S,AAA&row=2&column=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=ryo-ma&rank=S,AAA&row=2&column=3">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=ryo-ma&rank=S,AAA&row=2&column=3">
     </picture>
   </a>
 </p>
