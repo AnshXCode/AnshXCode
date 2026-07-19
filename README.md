@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshuman Goyal</h1>
 <h3 align="center">Sr. Software Engineer</h3>
 
----
-
 ### 🧑‍💻 About Me
 💻 I'm currently working on Scalable full-stack applications using React, TypeScript, Node.js, PostgreSQL, Redis, Docker & BullMQ. I graduated from IIT Kanpur and secured AIR 249 in JEE Advanced. I love turning complex engineering problems into simple, scalable solutions.<br><br>🌱 I'm currently learning Advanced System Design, Kafka, Distributed Systems, and High-Level Design.<br><br>💬 Ask me about React, TypeScript, Node.js, JavaScript, Performance Optimisation, Redis, PostgreSQL, Docker, and System Design.
 
@@ -10,6 +8,11 @@
 
 - Advanced System Design, Distributed Systems, and High-Level Design.
 - 🌠 Contributing to open source.
+
+### 📝 Blogs & Articles
+
+- [The React Bug That Crashed Our Production App in 2 Sec](https://medium.com/@CodersWorld99/the-react-bug-that-crashed-our-production-app-in-2-sec-ed20a0be0a8f)
+- [React Event Handling Explained: Forms, Event Object & User Input.](https://medium.com/@theDevBluePrint/part-7b-section-2-react-event-handling-explained-forms-event-object-user-input-d2d62e190400)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshuman-goyal-0b270b11a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goyalanshuman249@gmail.com) 
