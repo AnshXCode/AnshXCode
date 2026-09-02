@@ -3,16 +3,14 @@
  <img src="./p.png" alt="Top Languages" />
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/anshuman-goyal-0b270b11a/">
-    <img border="0" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/anshuman-goyal-0b270b11a/" style="text-decoration:none; margin:0;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:goyalanshuman249@gmail.com">
-    <img border="0" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:goyalanshuman249@gmail.com" style="text-decoration:none; margin:0;">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://anshxcode.github.io/portfolio/">
-    <img border="0" src="https://img.shields.io/badge/Portfolio-F57C00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://anshxcode.github.io/portfolio/" style="text-decoration:none; margin:0;">
+    <img src="https://img.shields.io/badge/Portfolio-F57C00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=F57C00" alt="Portfolio" />
   </a>
 
 </div>
