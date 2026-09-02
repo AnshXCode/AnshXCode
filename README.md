@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://anshxcode.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-F57C00?logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 </p>
 
 ---
