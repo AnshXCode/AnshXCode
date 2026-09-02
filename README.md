@@ -4,13 +4,15 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/anshuman-goyal-0b270b11a/" style="text-decoration:none; margin:0;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:8px;" />
   </a>
+
   <a href="mailto:goyalanshuman249@gmail.com" style="text-decoration:none; margin:0;">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius:8px;" />
   </a>
+
   <a href="https://anshxcode.github.io/portfolio/" style="text-decoration:none; margin:0;">
-    <img src="https://img.shields.io/badge/Portfolio-F57C00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=F57C00" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-F57C00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" style="border-radius:8px;" />
   </a>
 
 </div>
